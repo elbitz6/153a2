@@ -1,0 +1,15 @@
+# Datasets
+maestro-v3.0.0/
+lmd_matched/
+
+# Model weights
+outputs/*.pt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
